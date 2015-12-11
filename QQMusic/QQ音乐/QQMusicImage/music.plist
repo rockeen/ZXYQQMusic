@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>singer</key>
+		<string>周杰伦</string>
+		<key>song</key>
+		<string>安静</string>
+		<key>url</key>
+		<string>安静.mp3</string>
+		<key>image</key>
+		<string>joy.jpg</string>
+		<key>total</key>
+		<string>05:35</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>孙燕姿</string>
+		<key>song</key>
+		<string>遇见</string>
+		<key>url</key>
+		<string>遇见.mp3</string>
+		<key>image</key>
+		<string>yanzi.jpg</string>
+		<key>total</key>
+		<string>03:30</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>王力宏</string>
+		<key>song</key>
+		<string>你不知道的事</string>
+		<key>url</key>
+		<string>你不知道的事.mp3</string>
+		<key>image</key>
+		<string>wanglihong.jpg</string>
+		<key>total</key>
+		<string>04:39</string>
+	</dict>
+	<dict>
+		<key>singer</key>
+		<string>陈奕迅</string>
+		<key>song</key>
+		<string>你给我听好</string>
+		<key>url</key>
+		<string>你给我听好.mp3</string>
+		<key>image</key>
+		<string>chenyixun.jpg</string>
+		<key>total</key>
+		<string>04:49</string>
+	</dict>
+</array>
+</plist>
